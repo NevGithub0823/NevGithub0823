@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Xingrui
+- 👀 I’m interested in learning c++ and modding minecraft
+- 🌱 I’m currently learning c++ algorithms
+- 💞️ I’m currently not looking for any projects to collaborate on
+- 📫 You can reach me with my email: xingruichen2@gmail.com
